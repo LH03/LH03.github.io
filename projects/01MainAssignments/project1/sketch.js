@@ -111,7 +111,7 @@ function countdown() {
 }
 
 function draw() {
-  background('#F2EFDF');
+  background('#FDF4E3');
 
   if (restartCountdown > 0) {
     // Display countdown in the center of the canvas
